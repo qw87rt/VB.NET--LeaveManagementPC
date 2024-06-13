@@ -1,0 +1,146 @@
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.Form1.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.GenerateResource.cache
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.AssemblyInfoInputs.cache
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.AssemblyInfo.vb
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.CoreCompileInputs.cache
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.genruntimeconfig.cache
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.mainform.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.AssemblyReference.cache
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.CopyComplete
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.Resources.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmPending.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmApproved.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmDenied.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmUsers.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmBalances.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmView.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmViewuser.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmRegistadmin.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmRegistuser.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmLeavecard.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.exe
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.dll.config
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.deps.json
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.runtimeconfig.json
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.dll
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.pdb
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\Leave Management.dll
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\refint\Leave Management.dll
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\Leave Management.pdb
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\ref\Leave Management.dll
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmDeptreview.resources
+C:\Users\shemaiah\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmHrreview.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.exe
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.dll.config
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.deps.json
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.runtimeconfig.json
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.dll
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.pdb
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.AssemblyReference.cache
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.Form1.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmApproved.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmBalances.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmDenied.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmDeptreview.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmHrreview.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmLeavecard.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmPending.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmRegistadmin.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmRegistuser.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmUsers.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmView.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmViewuser.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.mainform.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.Resources.resources
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.GenerateResource.cache
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.AssemblyInfoInputs.cache
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.AssemblyInfo.vb
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.CoreCompileInputs.cache
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.CopyComplete
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\Leave Management.dll
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\refint\Leave Management.dll
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\Leave Management.pdb
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.genruntimeconfig.cache
+C:\Users\Hr\Desktop\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\ref\Leave Management.dll
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.exe
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.dll.config
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.deps.json
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.runtimeconfig.json
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.dll
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.pdb
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.AssemblyReference.cache
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.Form1.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmApproved.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmBalances.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmDenied.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmLeavecard.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmPending.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmRegistadmin.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmRegistuser.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmUsers.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmView.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmViewuser.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.mainform.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.Resources.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.GenerateResource.cache
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.AssemblyInfoInputs.cache
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.AssemblyInfo.vb
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.CoreCompileInputs.cache
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.CopyComplete
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\Leave Management.dll
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\refint\Leave Management.dll
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\Leave Management.pdb
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.genruntimeconfig.cache
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\ref\Leave Management.dll
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmFeed.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmReports.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmUpdatecreds.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmLeave_history.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmDTRentry.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmListadmin.resources
+C:\Users\Hr\source\repos\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmViewadmin.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.exe
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.dll.config
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.deps.json
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.runtimeconfig.json
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.dll
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Leave Management.pdb
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.AssemblyReference.cache
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.Form1.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmApproved.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmBalances.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmDenied.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmDTRentry.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmFeed.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmLeavecard.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmLeave_history.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmListadmin.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmPending.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmRegistadmin.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmRegistuser.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmReports.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmUpdatecreds.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmUsers.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmView.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmViewadmin.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.frmViewuser.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.mainform.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop_VER.Resources.resources
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.GenerateResource.cache
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.AssemblyInfoInputs.cache
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.AssemblyInfo.vb
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.CoreCompileInputs.cache
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.vbproj.CopyComplete
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\Leave Management.dll
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\refint\Leave Management.dll
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\Leave Management.pdb
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\LeaveManagementDesktop-VER.genruntimeconfig.cache
+C:\Users\Hr\Downloads\source_code\LeaveManagementDesktop-VER\LeaveManagementDesktop-VER\obj\Debug\net6.0-windows\ref\Leave Management.dll
