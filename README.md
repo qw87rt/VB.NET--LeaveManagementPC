@@ -19,20 +19,20 @@ The Streamlined Leave Management System currently consists of two versions: the 
 
 <table>
   <tr>
-    <td><img src="./LeaveManagementDesktop-VER/assets/images/img3.jpg" alt="Screenshot 3" width="275"></td>
+    <td><img src="./LeaveManagementDesktop-VER/assets/images/img3.png" alt="Screenshot 3" width="275"></td>
   </tr>
   <tr>
-    <td><img src="./LeaveManagementDesktop-VER/assets/images/img1.jpg" alt="Screenshot 3" width="650"></td>
+    <td><img src="./LeaveManagementDesktop-VER/assets/images/img1.png" alt="Screenshot 3" width="650"></td>
   </tr>
   <tr>
-    <td><img src="./LeaveManagementDesktop-VER/assets/images/img2.jpg" alt="Screenshot 3" width="650"></td>
+    <td><img src="./LeaveManagementDesktop-VER/assets/images/img2.png" alt="Screenshot 3" width="650"></td>
   </tr>
 </table>
 
 ## Key Features
 
--Efficient management of employee leave requests.
--Real-time tracking of leave balances.
+-Efficient management of employee leave requests.<br>
+-Real-time tracking of leave balances.<br>
 -Secure user authentication and authorization.
 
 
