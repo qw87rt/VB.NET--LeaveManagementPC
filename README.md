@@ -12,7 +12,6 @@ The Streamlined Leave Management System currently consists of two versions: the 
 - [Usage](#usage)
 - [Known Issues](#known-issues)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Screenshots
@@ -68,9 +67,6 @@ The Streamlined Leave Management System needs to be rewritten for optimization.
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
