@@ -2,8 +2,9 @@
 
 The Streamlined Leave Management System currently consists of two versions: the mobile app for employees to file their leave requests, and the desktop application for admins to manage leave requests and balances. This repository specifically for the desktop version.
 
-[Mobile App](https://github.com/qw87rt/ReactNative--LeaveManagement)
-[REST API](https://github.com/qw87rt/Expressjs--LeaveManagement_restapi)
+[Mobile App- Repo](https://github.com/qw87rt/ReactNative--LeaveManagement)
+
+[REST API - Repo](https://github.com/qw87rt/Expressjs--LeaveManagement_restapi)
 
 
 ## Table of Contents
